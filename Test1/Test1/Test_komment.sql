@@ -1,0 +1,1 @@
+﻿Select top 10 * from customers 
